@@ -268,7 +268,7 @@ namespace Server
 					}
 					else
 					{
-						Console.WriteLine("Warning: Multi data files not found!");
+						Console.WriteLine("Warning: verdata.mul not found. This is okay, modern clients have this deprecated.");
 					}
 				}
 			}
